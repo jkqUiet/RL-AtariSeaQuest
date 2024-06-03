@@ -1,0 +1,4 @@
+Priemerny cas trenovania :398.6
+Max skore : 148.0
+Min Skore : 62.0
+Rozptyl :86.0
